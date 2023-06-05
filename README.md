@@ -8,7 +8,7 @@ Dr. Ignaz Semmelweis was a Hungarian physician in the mid-19th century who obser
 
 ## Data
 
-The data used in this analysis is provided in the file `handwashing.csv`. It contains information about the monthly number of births and the number of deaths due to childbirth fever for each year from 1841 to 1849 in the two maternity wards.
+The data used in this analysis is provided in the folder. It contains information about the monthly number of births and the number of deaths due to childbirth fever for each year from 1841 to 1849 in the two maternity wards.
 
 ## Analysis Steps
 

@@ -27,7 +27,6 @@ The project is structured as follows:
   - `2_hypothesis_testing.ipynb`: Hypothesis testing and statistical analysis.
   - `3_data_visualization.ipynb`: Data visualization and interpretation.
 - `README.md`: Project overview and instructions.
-- `LICENSE`: License information (if applicable).
 - `requirements.txt`: Required Python packages to run the project.
 
 ## Getting Started

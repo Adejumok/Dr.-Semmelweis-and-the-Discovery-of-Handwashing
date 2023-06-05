@@ -21,13 +21,12 @@ The data used in this analysis is provided in the `datasets` folder. It contains
 
 The project is structured as follows:
 
-- `data` folder: Contains the dataset (`handwashing.csv`).
+- `dataset` folder: Contains the dataset .
 - `notebooks` folder: Contains the Jupyter Notebook files:
   - `1_data_exploration.ipynb`: Data loading and exploration.
   - `2_hypothesis_testing.ipynb`: Hypothesis testing and statistical analysis.
   - `3_data_visualization.ipynb`: Data visualization and interpretation.
 - `README.md`: Project overview and instructions.
-- `requirements.txt`: Required Python packages to run the project.
 
 ## Getting Started
 

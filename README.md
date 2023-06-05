@@ -15,8 +15,7 @@ The data used in this analysis is provided in the file `handwashing.csv`. It con
 1. Data Loading: The dataset is loaded into a Python environment using the pandas library.
 2. Data Cleaning: Any missing or inconsistent values are handled, and the data is prepared for analysis.
 3. Exploratory Data Analysis: The data is explored through descriptive statistics and visualizations to understand the patterns and trends.
-4. Hypothesis Testing: Statistical tests are conducted to determine the significance of handwashing in reducing mortality rates.
-5. Data Visualization: Matplotlib or Seaborn libraries are used to create visualizations to effectively communicate the findings.
+4. Data Visualization: Matplotlib or Seaborn libraries are used to create visualizations to effectively communicate the findings.
 
 ## Project Structure
 

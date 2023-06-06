@@ -23,11 +23,7 @@ The project is structured as follows:
 
 - `workspace` folder: Contains the dataset and the Jupyter Notebook file.
   - `datasets` folder: Contains the dataset files:
-  - `notebooks` folder: Contains the Jupyter Notebook files:
-
-  - `1_data_exploration.ipynb`: Data loading and exploration.
-  - `2_hypothesis_testing.ipynb`: Hypothesis testing and statistical analysis.
-  - `3_data_visualization.ipynb`: Data visualization and interpretation.
+  - `notebooks` folder: Contains the Jupyter Notebook files.
 - `README.md`: Project overview and instructions.
 
 ## Getting Started

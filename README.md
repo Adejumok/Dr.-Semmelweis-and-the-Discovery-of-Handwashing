@@ -26,7 +26,7 @@ The project is structured as follows:
     - `1_data_exploration.ipynb`: Data loading and exploration.
     - `2_hypothesis_testing.ipynb`: Hypothesis testing and statistical analysis.
     - `3_data_visualization.ipynb`: Data visualization and interpretation.
-  - `notebook`
+  - `notebook.ipynb`: 
 - `README.md`: Project overview and instructions.
 
 ## Getting Started

@@ -22,7 +22,7 @@ The data used in this analysis is provided in the `datasets` folder. It contains
 The project is structured as follows:
 
 - `workspace` folder: Contains the dataset and the Jupyter Notebook file.
-  - `datasets` folder: Contains the Jupyter Notebook files:
+  - `datasets` folder: Contains the dataset files:
   - `notebooks` folder: Contains the Jupyter Notebook files:
 
   - `1_data_exploration.ipynb`: Data loading and exploration.

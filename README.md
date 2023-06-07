@@ -25,7 +25,6 @@ The project is structured as follows:
   - `datasets` folder: Contains the dataset files:
     - `1_monthly_deaths.csv`: Data loading and exploration.
     - `2_hypothesis_testing.ipynb`: Hypothesis testing and statistical analysis.
-    - `3_data_visualization.ipynb`: Data visualization and interpretation.
   - `notebook.ipynb`: 
 - `README.md`: Project overview and instructions.
 

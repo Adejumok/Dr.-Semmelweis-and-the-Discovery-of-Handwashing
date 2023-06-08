@@ -55,7 +55,7 @@ You can install the required packages by running `pip install -r requirements.tx
 
 ## License
 
-[Specify the license under which the project is distributed, if applicable.]
+
 
 ## Acknowledgments
 

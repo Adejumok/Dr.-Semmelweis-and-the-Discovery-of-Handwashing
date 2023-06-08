@@ -56,6 +56,5 @@ You can install the required packages by running `pip install -r requirements.tx
 
 ## Acknowledgments
 
-[Provide acknowledgments or credits to any re
 
 Feel free to customize the README file based on your project structure, analysis steps, and additional details you want to include.

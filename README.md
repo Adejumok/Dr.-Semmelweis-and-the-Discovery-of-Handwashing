@@ -53,7 +53,6 @@ The project requires the following dependencies:
 
 You can install the required packages by running `pip install -r requirements.txt`.
 
-## License
 
 ## Acknowledgments
 

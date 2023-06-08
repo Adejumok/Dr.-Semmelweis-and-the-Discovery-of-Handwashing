@@ -55,8 +55,6 @@ You can install the required packages by running `pip install -r requirements.tx
 
 ## License
 
-
-
 ## Acknowledgments
 
 [Provide acknowledgments or credits to any resources, tutorials, or references that were helpful during the project.]

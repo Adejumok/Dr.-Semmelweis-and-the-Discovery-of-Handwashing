@@ -58,6 +58,3 @@ To install these libraries, run the following command:
 ```
 
 ## Acknowledgments
-
-
-Feel free to customize the README file based on your project structure, analysis steps, and additional details you want to include.

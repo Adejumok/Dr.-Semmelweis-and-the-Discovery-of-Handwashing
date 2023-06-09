@@ -36,7 +36,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/your-username/Dr.-Semmelweis-and-the-Discovery-of-Handwashing.git`
 2. Navigate to the project directory: `cd Dr.-Semmelweis-and-the-Discovery-of-Handwashing`
-3. Install the required packages
+3. Install the required dependenci
 4. Launch Jupyter Notebook: `jupyter notebook`
 5. Open the desired notebook file (e.g., `notebooks/1_data_exploration.ipynb`)
 6. Run the notebook cells to execute the code and generate the analysis outputs.

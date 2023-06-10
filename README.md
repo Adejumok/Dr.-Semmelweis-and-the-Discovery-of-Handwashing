@@ -54,7 +54,7 @@ The project requires the following dependencies:
 To install these libraries, run the following command:
 
 ```
-!pip install pandas numpy matplotlib 
+!pip install pandas numpy matplotlib seaborn
 ```
 
 ## Acknowledgments

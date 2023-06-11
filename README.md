@@ -39,7 +39,7 @@ To run the project locally, follow these steps:
 3. Install the required dependencies
 4. Launch Jupyter Notebook: `jupyter notebook`
 5. Open the desired notebook file (e.g., `notebooks.ipynb`)
-6. Run the notebook cells to execute the code and generate the analysis outputs.
+6. Run the notebook cells to execute the code and generate the analysis outputs
 
 ## Dependencies
 

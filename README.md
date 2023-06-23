@@ -2,6 +2,7 @@
 
 This project focuses on analyzing the impact of handwashing on the reduction of mortality rates in hospitals, inspired by the historical work of Dr. Ignaz Semmelweis. The analysis is conducted using Python programming language and data visualization libraries.
 
+
 ## Project Overview
 
 Dr. Ignaz Semmelweis was a Hungarian physician in the mid-19th century who observed the significant difference in mortality rates between two maternity wards at Vienna General Hospital. One ward was staffed by doctors, while the other was staffed by midwives. The project aims to explore and visualize the impact of handwashing on the mortality rates of new mothers.
